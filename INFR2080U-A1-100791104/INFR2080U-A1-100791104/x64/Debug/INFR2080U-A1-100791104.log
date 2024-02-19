@@ -1,0 +1,14 @@
+﻿  INFR2080U-A1-100791104.cpp
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(100,28): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(100,28): warning C4305:         with
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(100,28): warning C4305:         [
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(100,28): warning C4305:             _Elem=char
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(100,28): warning C4305:         ]
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(100,28): warning C4309: 'argument': truncation of constant value
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(102,32): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(102,32): warning C4305:         with
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(102,32): warning C4305:         [
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(102,32): warning C4305:             _Elem=char
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(102,32): warning C4305:         ]
+C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\INFR2080U-A1-100791104\INFR2080U-A1-100791104.cpp(102,32): warning C4309: 'argument': truncation of constant value
+  INFR2080U-A1-100791104.vcxproj -> C:\Users\Nishaanth Murali\source\repos\INFR2080U-A1-100791104\x64\Debug\INFR2080U-A1-100791104.exe
